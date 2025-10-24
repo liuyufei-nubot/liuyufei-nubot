@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 😄 My research interests include robot perception and SLAM.
+- 🌱 I'm currently pursuing a Master’s degree in Robotics at the National University of Defense Technology(NUDT). 
+- 🔭 I received Bachelor’s degree in Automation Engineering at the National University of Defense Technology. 
+
 <!--
 **Yufei-Liu-Dev/Yufei-Liu-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
