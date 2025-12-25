@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I'm currently pursuing a Master's degree in Robotics at the National University of Defense Technology(NUDT).
-- 👯 I’m looking to collaborate on 3D reconstruction.
-- 😄 My research interests include robot perception and SLAM.
+- 👯 I’m looking to collaborate on Humanoid Perceptive Locomotion.
+- 😄 My research interests include robot perception and locomotion.
 - 🔭 I received Bachelor’s degree in Automation Engineering at the National University of Defense Technology(NUDT). 
 
 <!--
